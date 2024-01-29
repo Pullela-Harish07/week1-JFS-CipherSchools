@@ -1,0 +1,7 @@
+Objective: Generating Random Number
+
+Ans:
+Package: java.util
+Class: random
+Method: nextInt(limit)
+Output: generates numbers from 0 to limit
